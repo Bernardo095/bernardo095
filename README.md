@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Bernardo095/bernardo095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=olá+meu+nome+é+Bernardo;+Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
+<p>
+  
+- Meu nome é Bernardo
+- Etou estudando informatica
+- 🖥️ Html, css e c# 🖥️
+- 🎸 Toco guitarra 🎸
+- Faço academia  
+  
+<img width="960" height="540" alt="6dfbc74564ed8ed039734fa91b2d8f9a" src="https://github.com/user-attachments/assets/ef627a18-0df2-4cad-a839-6964f70553ce" />
